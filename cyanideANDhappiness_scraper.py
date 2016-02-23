@@ -13,7 +13,7 @@ with open(pushbullet_auth_filepath) as f:
 
 # sys.stdout=open('C:\Temp\Scrapes\Scraper_Logs\cyanideAndHappiness_scraper_log.txt','a')
 
-minIndex = 4204
+minIndex = 1
 maxIndex = 4215
 
 for i in range(minIndex, maxIndex):
